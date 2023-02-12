@@ -12,6 +12,7 @@ I've been learning to code for 4 years, after switching careers I started with w
 * 🚀  I'm currently working on [crypto-stats](https://github.com/vimalsaraswat/crypto-stats)
 * 🧠  I'm learning Web Technologies
 * 🤝  I'm open to collaborating on interesting projects
+* ⚡  Let's build something amazing together
 
 
 ### Skills
