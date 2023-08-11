@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
 =============================================================================================================
-My name is Vimal
+My name is Vimal Saraswat
 ==================
 
 
-I've been learning to code for 4 years, after switching careers I started with web development and now I am a passionate Front-end Developer and a CSE student.
+I've been learning to code for the past few years, after exploring different domains, I started with web development and now I am loving this.
 
 * 🌍  I'm based in Gurugram/India
 * 🖥️  See my portfolio at [vimalsaraswat.github.io](http://vimalsaraswat.github.io)
