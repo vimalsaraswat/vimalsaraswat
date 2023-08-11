@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================
 My name is Vimal Saraswat
 ==================
@@ -8,9 +8,9 @@ I've been learning to code for the past few years, after exploring different dom
 
 * 🌍  I'm based in Gurugram/India
 * 🖥️  See my portfolio at [vimalsaraswat.github.io](http://vimalsaraswat.github.io)
-* ✉️  You can contact me at [vimalsaraswat00@gmail.com](mailto:vimalsaraswat00@gmail.com)
-* 🚀  I'm currently working on [crypto-stats](https://github.com/vimalsaraswat/crypto-stats)
-* 🧠  I'm learning Web Technologies
+* ✉️  You can contact me at [vimalsaraswat00@gmail.com](mailto:saraswatvimal1@gmail.com)
+* 🚀  I'm currently working on [cryptostats](https://github.com/vimalsaraswat/cryptostats)
+* 🧠  I'm learning Full Stack Web Development
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Let's build something amazing together
 
@@ -32,20 +32,12 @@ I've been learning to code for the past few years, after exploring different dom
 ### Socials
 
 <p align="center"> <a href="https://www.github.com/vimalsaraswat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vimalsaraswat.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vimalsaraswat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vimalsaraswat00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/vimalsaraswat"><img src="https://github-readme-stats.vercel.app/api?username=vimalsaraswat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vimalsaraswat's GitHub stats" /></a>
-
-<a href="http://www.github.com/vimalsaraswat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalsaraswat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/vimalsaraswat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vimalsaraswat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<b>Top Languages</b>
 <a href="https://github.com/vimalsaraswat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalsaraswat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vimalsaraswat/rock-paper-scissors" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vimalsaraswat&repo=crypto-stats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vimalsaraswat/rock-paper-scissors" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vimalsaraswat&repo=rock-paper-scissors&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vimalsaraswat)
