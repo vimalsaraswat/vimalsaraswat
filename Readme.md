@@ -46,6 +46,6 @@ I've been learning to code for the past few years, after exploring different dom
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vimalsaraswat/crypto-stats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vimalsaraswat&repo=crypto-stats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vimalsaraswat/rock-paper-scissors" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vimalsaraswat&repo=crypto-stats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vimalsaraswat)
