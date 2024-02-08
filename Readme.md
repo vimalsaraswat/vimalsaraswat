@@ -9,8 +9,8 @@ I've been learning to code for the past few years, after exploring different dom
 * 🌍  I'm based in Gurugram/India
 * 🖥️  See my portfolio at [vimalsaraswat.github.io](http://vimalsaraswat.github.io)
 * ✉️  You can contact me at [vimalsaraswat00@gmail.com](mailto:saraswatvimal1@gmail.com)
-* 🚀  I'm currently working on [cryptostats](https://github.com/vimalsaraswat/cryptostats)
-* 🧠  I'm learning Full Stack Web Development
+* 🚀  I'm currently working on [kapde](https://github.com/vimalsaraswat/kapde)(an e-commerce clothing marketplace web project)
+* 🧠  I'm a Full Stack Web Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Let's build something amazing together
 
@@ -39,6 +39,6 @@ I've been learning to code for the past few years, after exploring different dom
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vimalsaraswat/rock-paper-scissors" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vimalsaraswat&repo=rock-paper-scissors&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vimalsaraswat/cryptostats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vimalsaraswat&repo=cryptostats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vimalsaraswat)
