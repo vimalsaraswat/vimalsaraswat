@@ -1,44 +1,57 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=============================================================================================================
-My name is Vimal Saraswat
-==================
-
-
-I've been learning to code for the past few years, after exploring different domains, I started with web development and now I am loving this.
-
-* 🌍  I'm based in Gurugram/India
-* 🖥️  See my portfolio at [vimalsaraswat.github.io](http://vimalsaraswat.github.io)
-* ✉️  You can contact me at [vimalsaraswat00@gmail.com](mailto:saraswatvimal1@gmail.com)
-* 🚀  I'm currently working on [kapde](https://github.com/vimalsaraswat/kapde)(an e-commerce clothing marketplace web project)
-* 🧠  I'm a Full Stack Web Developer
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  Let's build something amazing together
-
-
-### Skills
+<!-- Header Animation (optional) -->
+<h1 align="center">
+ Vimal Saraswat
+</h1>
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <strong>Full‑Stack Software Engineer</strong> 💻 | Gurugram, India
 </p>
 
-### Socials
+<p align="center">
+  <a href="mailto:vimalsaraswat00@gmail.com"><img src="https://img.shields.io/badge/Email‑Me-blue?logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/vimalsaraswat"><img src="https://img.shields.io/badge/LinkedIn-🔗-blue?logo=linkedin"/></a>
+  <a href="https://twitter.com/vimalsaraswat00"><img src="https://img.shields.io/badge/Twitter-🐦-lightblue?logo=twitter"/></a>
+</p>
 
-<p align="center"> <a href="https://www.github.com/vimalsaraswat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vimalsaraswat.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vimalsaraswat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vimalsaraswat00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<b>Top Languages</b>
 
-<a href="https://github.com/vimalsaraswat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalsaraswat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 👨‍💻 About Me
+I'm a Full‑Stack Software Engineer focused on crafting high-quality web, mobile and blockchain applications. I love to turn complex ideas into user-centric products with clean code and polished UI.
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vimalsaraswat/cryptostats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vimalsaraswat&repo=cryptostats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vimalsaraswat)
+### 🚀 Tech Stack
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,postgres,mongodb,prisma,python,git,docker,solidity,netlify,vercel,rust&theme=light&perline=6" alt="Tech Stack" />
+</p>
+
+
+
+### 🎯 Featured Projects
+- **MoneyForge** – Budget app with AI spend insights, PostgreSQL, Drizzle ORM  
+- **CryptoStats** – Crypto-market simulator with React, CoinGecko API, Supabase  
+- **dChat** – On-chain chat DApp using Scaffold‑ETH, Tableland, optimized gas
+
+
+
+### 📈 GitHub Stats & Activity
+
+| GitHub Stats | Top Languages |
+|--------------|--------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimalsaraswat&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimalsaraswat&layout=compact&theme=tokyonight) |
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vimalsaraswat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+
+
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vimalsaraswat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+### 🤝 Let’s Collaborate
+
+If you'd like to team up on web or blockchain projects—feel free to reach out!  
+📧 vimalsaraswat00@gmail.com
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vimalsaraswat)
